@@ -6,7 +6,7 @@
 <div class="way">
 <h2>This is a 2way binding...</h2>
 <input type="text" v-model="cCount"/>
-<br>
+<br><br>
 <span style="font-weight: bolder;">{{ cCount }}</span>
 </div>
 </template>
